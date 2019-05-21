@@ -1,0 +1,155 @@
+2019-05-16 17:35:13 ERROR SpringBootProjectApplication:38 - Message de log(ERROR)
+2019-05-16 17:35:13 FATAL SpringBootProjectApplication:39 - Message de log(FATAL)
+2019-05-17 10:23:48 ERROR SpringBootProjectApplication:38 - Message de log(ERROR)
+2019-05-17 10:23:48 FATAL SpringBootProjectApplication:39 - Message de log(FATAL)
+2019-05-17 11:55:05 ERROR UserService:117 - [Ljava.lang.StackTraceElement;@78a51ac
+2019-05-17 13:59:42 ERROR SpringBootProjectApplication:38 - Message de log(ERROR)
+2019-05-17 13:59:42 FATAL SpringBootProjectApplication:39 - Message de log(FATAL)
+2019-05-17 14:03:04 ERROR SpringBootProjectApplication:38 - Message de log(ERROR)
+2019-05-17 14:03:04 FATAL SpringBootProjectApplication:39 - Message de log(FATAL)
+2019-05-17 15:51:47 ERROR SpringBootProjectApplication:38 - Message de log(ERROR)
+2019-05-17 15:51:47 FATAL SpringBootProjectApplication:39 - Message de log(FATAL)
+2019-05-20 21:44:28 ERROR UserService:51 - Le nom est déjà  utilisé
+2019-05-20 21:44:28 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-20 21:44:28 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 09:40:34 ERROR UserService:51 - Le nom est déjà  utilisé
+2019-05-21 09:40:34 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 09:40:34 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 09:44:33 ERROR UserService:67 - [Ljava.lang.StackTraceElement;@4e6280de
+2019-05-21 09:44:33 ERROR UserService:51 - Le nom est déjà  utilisé
+2019-05-21 09:44:33 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 09:44:33 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 09:46:04 ERROR UserService:51 - Le nom est déjà  utilisé
+2019-05-21 09:46:04 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 09:46:04 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 09:48:48 ERROR UserService:51 - Le nom est déjà  utilisé
+2019-05-21 09:48:48 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 09:48:48 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 10:07:32 ERROR UserService:41 - Le nom existe déjà 
+2019-05-21 10:07:32 ERROR UserService:41 - Le nom existe déjà 
+2019-05-21 10:07:32 ERROR UserService:24 - Nom null
+2019-05-21 10:11:17 ERROR UserService:35 - Le nom existe déjà 
+2019-05-21 10:11:17 ERROR UserService:35 - Le nom existe déjà 
+2019-05-21 10:21:23 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 10:21:23 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 10:21:23 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 10:28:39 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 10:28:39 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 10:28:39 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 10:32:39 ERROR UserService:33 - [Ljava.lang.StackTraceElement;@57f725b8
+2019-05-21 10:32:39 ERROR UserService:33 - [Ljava.lang.StackTraceElement;@44c27b8b
+2019-05-21 10:51:49 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 10:51:49 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 10:52:18 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 10:52:18 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 10:52:18 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 10:52:50 ERROR UserService:33 - [Ljava.lang.StackTraceElement;@120d13ae
+2019-05-21 10:52:50 ERROR UserService:33 - [Ljava.lang.StackTraceElement;@24b38e8f
+2019-05-21 11:09:48 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:09:48 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:09:48 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:09:48 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:09:48 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:09:48 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:09:48 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:12:55 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:12:55 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:12:55 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:12:55 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:12:55 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:12:55 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:12:55 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:14:29 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:14:29 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:14:29 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:14:29 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:14:29 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:14:29 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:14:29 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:31:23 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:31:23 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:31:23 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:31:23 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:31:23 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:31:23 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:31:23 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:34:11 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:34:11 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:34:11 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:34:11 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:34:11 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:34:11 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:34:11 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:35:12 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:35:12 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:35:12 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:35:12 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:35:12 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:35:12 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:35:12 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:31 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:31 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:37:31 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:37:31 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:31 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:31 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:31 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:53 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:53 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:37:53 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:37:53 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:53 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:53 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:37:53 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:39:39 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:39:39 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:39:39 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:39:39 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:39:39 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:39:39 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:39:39 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:00 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:00 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:42:00 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:42:00 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:00 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:00 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:51 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:51 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:42:51 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:42:51 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:51 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:51 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:42:51 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:44:35 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:44:35 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:44:35 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:44:35 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:44:35 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:46:28 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:46:28 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:46:28 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:46:28 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:49:05 ERROR UserService:51 - Le mail est déjà  utilisé
+2019-05-21 11:49:05 ERROR UserService:27 - L'email ne doit pas être null
+2019-05-21 11:49:05 ERROR UserService:30 - Le pwd ne doit pas être null
+2019-05-21 11:54:04 ERROR UserService:52 - Le mail est déjà  utilisé
+2019-05-21 11:54:04 ERROR UserService:28 - L'email ne doit pas être null
+2019-05-21 11:54:04 ERROR UserService:31 - Le pwd ne doit pas être null
+2019-05-21 11:54:56 ERROR UserService:52 - Le mail est déjà  utilisé
+2019-05-21 11:54:56 ERROR UserService:28 - L'email ne doit pas être null
+2019-05-21 11:54:56 ERROR UserService:31 - Le pwd ne doit pas être null
+2019-05-21 12:03:27 ERROR UserService:52 - Le mail est déjà  utilisé
+2019-05-21 12:03:27 ERROR UserService:28 - L'email ne doit pas être null
+2019-05-21 12:03:27 ERROR UserService:31 - Le pwd ne doit pas être null
+2019-05-21 12:04:28 ERROR UserService:52 - Le mail est déjà  utilisé
+2019-05-21 12:04:28 ERROR UserService:28 - L'email ne doit pas être null
+2019-05-21 12:04:28 ERROR UserService:31 - Le pwd ne doit pas être null
+2019-05-21 12:06:11 ERROR UserService:52 - Le mail est déjà  utilisé
+2019-05-21 12:06:11 ERROR UserService:28 - L'email ne doit pas être null
+2019-05-21 12:06:11 ERROR UserService:31 - Le pwd ne doit pas être null
+2019-05-21 12:07:00 ERROR UserService:52 - Le mail est déjà  utilisé
+2019-05-21 12:07:00 ERROR UserService:28 - L'email ne doit pas être null
+2019-05-21 12:07:00 ERROR UserService:31 - Le pwd ne doit pas être null
+2019-05-21 12:08:20 ERROR UserService:33 - [Ljava.lang.StackTraceElement;@437c1a87
+2019-05-21 12:08:20 ERROR UserService:33 - [Ljava.lang.StackTraceElement;@2dc73024
